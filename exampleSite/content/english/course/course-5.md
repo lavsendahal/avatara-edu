@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 image: images/courses/course-5.jpg
 category: AI
-teacher: Zim Cook
+teacher: Lavsen Dahal
 duration: 03 Month
 weekly: 06 hours
 fee: 'From: NPR XXX'
