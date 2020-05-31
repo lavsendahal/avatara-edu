@@ -11,10 +11,8 @@ slider:
       enable: true
       label: Apply now
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Want to build a career in Artificial Intelligence ?
+    content: 'Start your journey now. '
     animation_in: left
     animation_out: right
     button:
