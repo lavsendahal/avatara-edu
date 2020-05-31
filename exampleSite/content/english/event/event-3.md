@@ -10,11 +10,12 @@ fee: 'From: NPR 3000'
 apply_url: https://www.facebook.com
 speaker:
 - name: Lavsen Dahal
-  image: "/images/lavsen.jpg"
+  image: "/images/lavsen_small_res.jpg"
   designation: Lead Instructor
-- name: Alfred Jin
-  image: images/event-speakers/speaker-4.jpg
-  designation: Teacher
+- name: To Confirm
+  image: ''
+  designation: Guest Lecturer
+type: 'o '
 
 ---
 ### About Event
