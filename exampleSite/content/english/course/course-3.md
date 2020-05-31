@@ -9,7 +9,7 @@ image: images/courses/course-3.jpg
 category: Artificial Intelligence
 teacher: Lavsen Dahal
 duration: 03 Month
-weekly: 03 hours
+weekly: 06 hours
 fee: 'From: $699'
 apply_url: "#"
 
