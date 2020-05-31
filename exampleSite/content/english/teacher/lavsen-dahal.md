@@ -8,7 +8,7 @@ interest = ["Computer Vision", "Machine Learning", "Medical Imaging"]
 title = "Lavsen Dahal"
 [[contact]]
 icon = "ti-world"
-link = "#"
+link = "https://lavsendahal.github.io"
 name = "https://lavsendahal.github.io"
 [[contact]]
 icon = "ti-mobile"
