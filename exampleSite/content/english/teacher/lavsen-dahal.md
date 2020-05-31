@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/events/event-2.jpg"
 bio = "Lavsen Dahal is a Research Associate at NepAl Applied Mathematics and Informatics Institute for Research (NAAMII). His research interests include computer vision, medical imaging and deep learning. He wants to use Artificial Intelligence to develop low cost effective medical solutions for developing countries like Nepal."
-course = "Machine Learning"
+course = "Machine Learning Medical Imaging Computer Vision"
 description = ""
 image = "/images/lavsen.jpg"
 interest = ["Computer Vision", "Machine Learning", "Medical Imaging"]
