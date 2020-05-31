@@ -1,4 +1,4 @@
-baseURL = "http://avatara-edu.netlify.app"
+baseURL = "https://avatara-edu.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
