@@ -10,7 +10,7 @@ category: Artificial Intelligence
 teacher: Lavsen Dahal
 duration: 03 Month
 weekly: 06 hours
-fee: 'From: $699'
+fee: 'From: NPR xxxx'
 apply_url: "#"
 
 ---
