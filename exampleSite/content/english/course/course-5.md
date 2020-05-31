@@ -8,9 +8,9 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 image: images/courses/course-5.jpg
 category: AI
 teacher: Zim Cook
-duration: 06 Month
-weekly: 03 hours
-fee: 'From: $699'
+duration: 03 Month
+weekly: 06 hours
+fee: 'From: NPR XXX'
 apply_url: "#"
 
 ---
