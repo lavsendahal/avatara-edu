@@ -1,43 +1,31 @@
 ---
-title: Zim Cook
+title: Fakrul Islam Tushar
 bg_image: images/backgrounds/page-title.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
-image: images/teachers/teacher-1.jpg
+description: ''
+image: "/images/tushar.png"
 course: Computer Vision
-bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
-  ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
-  culpa aspernatur. Error placeat iusto officia voluptas quae.
+bio: ''
 interest:
 - Computer Vision
 - Artificial Intelligence
 contact:
-- name: clarkmalik@email.com
+- name: fakrulislam.tushar@duke.edu
   icon: ti-email
-  link: mailto:clarkmalik@email.com
+  link: 'mailto: fakrulislam.tushar@duke.edu'
 - name: Fakrul Islam Tushar
   icon: ti-facebook
   link: https://www.facebook.com/f.i.tushar
-- name: Clark Malik
+- name: Fakrul Islam Tushar
   icon: ti-twitter-alt
   link: "#"
-- name: Clark Malik
-  icon: ti-skype
-  link: "#"
-- name: clarkmalik.com
+- name: https://fitushar.netlify.app/
   icon: ti-world
-  link: "#"
-- name: 1313 Boulevard Cremazie,Quebec
+  link: https://fitushar.netlify.app/
+- name: '2424 Erwin Rd, #302, Durham, NC 27705'
   icon: ti-location-pin
   link: "#"
 
 ---
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
-
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+Fakrul Islam tushar is a Medical Imaging & Computer Vision Engineer, primarily engaged in research, computer-aided diagnosis and healthcare innovation using machine learning, neural networks, and image analysis driven solutions. He graduated from the Erasmus+ Joint Master in Medical Imaging and Applications and is currently a Post-Graduate Research Associate at the Carl E. Ravin Advanced Imaging Laboratories (RAI Labs), Duke University Medical Center, USA. He earned a Bachelor of Science degree in Electrical and Electronics Engineering at American International University Bangladesh (AIUB). He is a recipient of the “Cum Laude” distinction and academic honor at the 17th Convocation Ceremony of AIUB, “Dean’s Award” for his final-year undergraduate research project, the European Union: Erasmus+ Grant and the Duke University: Masters Thesis Grant. His past affiliations include IEEE AIUB Student Branch, Teach For Bangladesh and “Literacy Through Leadership”.
