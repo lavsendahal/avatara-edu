@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 image: images/courses/course-2.jpg
 category: Mathematics
-teacher: Jacke Mastio
+teacher: Lavsen Dahal
 duration: 06 Month
 weekly: 03 hours
 fee: 'From: $699'
