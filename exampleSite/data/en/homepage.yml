@@ -64,7 +64,7 @@ course:
 cta:
   enable: false
   subtitle: Click to Join the Advance Workshop
-  title: Training In Advannce Networking
+  title: Training In Advance Networking
   button:
     enable: true
     label: join now
