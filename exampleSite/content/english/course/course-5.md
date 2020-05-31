@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 image: images/courses/course-5.jpg
-category: AI
+category: Artificial Intelligence
 teacher: Lavsen Dahal
 duration: 03 Month
 weekly: 06 hours
