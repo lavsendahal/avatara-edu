@@ -16,12 +16,9 @@ contact:
 - name: clarkmalik@email.com
   icon: ti-email
   link: mailto:clarkmalik@email.com
-- name: "+12 034 5876"
-  icon: ti-mobile
-  link: tel:+120345876
-- name: Clark Malik
+- name: Fakrul Islam Tushar
   icon: ti-facebook
-  link: "#"
+  link: https://www.facebook.com/f.i.tushar
 - name: Clark Malik
   icon: ti-twitter-alt
   link: "#"
