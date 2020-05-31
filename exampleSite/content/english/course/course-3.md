@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 image: images/courses/course-3.jpg
 category: Artificial Intelligence
-teacher: Alex Rook
+teacher: Lavsen Dahal
 duration: 06 Month
 weekly: 03 hours
 fee: 'From: $699'
