@@ -8,7 +8,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 image: images/courses/course-3.jpg
 category: Artificial Intelligence
 teacher: Lavsen Dahal
-duration: 06 Month
+duration: 03 Month
 weekly: 03 hours
 fee: 'From: $699'
 apply_url: "#"
