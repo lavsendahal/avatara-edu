@@ -81,7 +81,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "avatara.edu@gmail.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/avatara_edu_logo.png"
 mobile = "+9779860147332"
 top_header = true
 [params.map]
