@@ -72,12 +72,10 @@ cta:
 success_story:
   enable: true
   bg_image: images/backgrounds/success-story.jpg
-  title: Success Stories
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-
-    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-  video_link: https://www.youtube.com/watch?v=ResipmZmpDU
+  title: Resources
+  content: Subscribe to our youtube channels to find the resources. You can also find
+    student presentations and different fun activities.
+  video_link: https://www.youtube.com/watch?v=LY7x2Ihqjmc
 event:
   enable: true
   title: Upcoming Events
